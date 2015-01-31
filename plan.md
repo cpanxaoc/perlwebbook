@@ -1,14 +1,18 @@
 * Introduction
 
 	* History of web development
+        * From MozDev?
 
 * How the web works
 
 	* HTTP
+        * Wikipedia?
 
 	* HTML / CSS / Javascript
+        * Wikipedia?
 
 	* Web servers
+        * Wikipedia?
 
 * Underlying tools
 
